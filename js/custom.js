@@ -1,4 +1,4 @@
-var keysnd = new Audio("aud/keysound.mp3");
+var keysnd = new Audio("");
 var h=$(window).height(), w=$(window).width();
 var k=0;
 var text="";
